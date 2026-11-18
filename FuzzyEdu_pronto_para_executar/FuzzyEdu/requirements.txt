@@ -1,6 +1,9 @@
+
+streamlit
+numpy
+pandas
+plotly
+scikit-fuzzy
 scipy
-streamlit>=1.35,<2.0
-numpy>=1.24
-pandas>=2.0
-plotly>=5.18
-scikit-fuzzy>=0.4.2
+networkx
+matplotlib
